@@ -1,2 +1,4 @@
 # asti_data
-An excerpt of AGRICULTURAL SCIENCE AND TECHNOLOGY INDICATORS from IFPRI-CGIAR
+
+An excerpt of the data and indicators available at **AGRICULTURAL SCIENCE AND TECHNOLOGY INDICATORS (ASTI)**  from `IFPRI-CGIAR`.
+
